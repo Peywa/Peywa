@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Peywa
 - 👀 I’m interested in web design
-- 🌱 I’m currently learning Diploma in IT at Cambridge universal colledge
-- 💞️ I’m looking to collaborate on web design and programming languages
+- 💞️ I’m looking to collaborate on web design
 - 📫 How to reach me email.@ rashidpeywa@gmail.com
 
 <!---
